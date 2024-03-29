@@ -1,3 +1,4 @@
+//整数値を入力させ、その値が偶数ならばeven、奇数ならばoddと表示するプログラム
 import java.util.Scanner;
 
 public class ComprehensiveBeginner01_01 {
