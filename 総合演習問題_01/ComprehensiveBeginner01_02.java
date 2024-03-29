@@ -1,3 +1,5 @@
+//整数値を3つ入力させ、それらの値が小さい順（等しくてもよい）に並んでいるか判定し、
+//小さい順に並んでいる場合はOK、そうなっていない場合はNGと表示するプログラム
 import java.util.Scanner;
 
 public class ComprehensiveBeginner01_02 {
