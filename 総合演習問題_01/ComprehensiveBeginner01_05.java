@@ -1,4 +1,5 @@
 //九九の表を、2重の繰り返し(2重for文)を使って表示するプログラム
+
 public class ComprehensiveBeginner01_05 {
 
     public static void main(String[] args) {
