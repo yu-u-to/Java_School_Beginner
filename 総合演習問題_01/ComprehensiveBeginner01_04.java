@@ -1,5 +1,6 @@
 //とある美術館の入場料金は、一人600円であるが、5人以上のグループなら一人550円、20人以上の団体なら一人500円である。
 //人数を入力し、入場料の合計を計算するプログラム
+
 import java.util.Scanner;
 
 public class ComprehensiveBeginner01_04 {
